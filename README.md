@@ -3,9 +3,6 @@
     <h1>Hi 👋, I'm Suraj A R</h1>
     <h3>Analytics Engineer with a passion for transforming raw data into actionable insights.</h3>
     <br>
-    <a href="https://github.com/surajar36">
-        <img src="https://github-readme-stats.vercel.app/api?username=surajar36&show_icons=true&hide_rank=true&theme=dark&count_private=true&disable_animations=true&hide_border=true&border_radius=10" alt="Suraj A R's GitHub Stats"/>
-    </a>
 </div>
 
 ---
